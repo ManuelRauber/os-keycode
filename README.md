@@ -1,3 +1,5 @@
+[![NpmVersion](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/os-keycode)
+
 # OS Keycode
 
 This simple library maps keycodes to names.
