@@ -1,0 +1,33 @@
+{
+  "name": "os-keycode",
+  "version": "1.0.0",
+  "description": "A simple library to map keycodes to names.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelRauber/os-keycode.git"
+  },
+  "scripts": {
+    "start": "node example/index.js"
+  },
+  "keywords": [
+    "keycode",
+    "keycodes",
+    "os",
+    "operating system",
+    "map",
+    "mapping",
+    "windows",
+    "linux",
+    "macos"
+  ],
+  "author": "Manuel Rauber <manuel@rauber.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManuelRauber/os-keycode/issues"
+  },
+  "homepage": "https://github.com/ManuelRauber/os-keycode#readme",
+  "devDependencies": {
+    "iohook": "^0.2.0"
+  }
+}
