@@ -1,4 +1,4 @@
-[![NpmVersion](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/os-keycode)
+[![NpmVersion](https://img.shields.io/npm/v/os-keycode.svg)](https://www.npmjs.com/package/os-keycode)
 
 # OS Keycode
 
