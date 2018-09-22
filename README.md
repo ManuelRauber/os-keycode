@@ -154,5 +154,5 @@ const keycode = require('os-keycode').keycode; // Platform is determined automat
 
 // Assume we are on macOS:
 console.log(keycode('q')); // 12
-console.log(keyname('control')); // 59
+console.log(keycode('control')); // 59
 ```
